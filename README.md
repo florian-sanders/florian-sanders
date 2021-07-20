@@ -4,3 +4,10 @@ I'm a French Web Developer with a **very curious mind**. I love learning and try
 I've worked at Access42 as an **Accessibility trainer and consultant for 4 years** and I am now searching for a **place to start a new adventure**.
 
 I recently spent 6 months learning about **NodeJS and ReactJS** with [O'Clock.io](https://oclock.io/), at the end of which I worked on the [Cod'Access Project](https://github.com/florian-sanders/cod-access).
+
+#### Things I'm Learning
+I'm always searching for new things to learn. Here is a short list of what is on my radar at the moment:
+* TypeScript,
+* VueJS,
+* NextJS
+* ...
