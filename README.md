@@ -7,7 +7,8 @@ I recently spent 6 months learning about **NodeJS and ReactJS** with [O'Clock.io
 
 #### Things I'm Learning
 I'm always searching for new things to learn. Here is a short list of what is on my radar at the moment:
-* TypeScript,
-* VueJS,
-* NextJS
+* Test Driven Development (practice),
+* TypeScript (practice),
+* VueJS (learn and practice),
+* NextJS (learn and practice)
 * ...
