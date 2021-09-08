@@ -5,10 +5,13 @@ I've worked at Access42 as an **Accessibility trainer and consultant for 4 years
 
 I recently spent 6 months learning about **NodeJS and ReactJS** with [O'Clock.io](https://oclock.io/), at the end of which I worked on the [Cod'Access Project](https://github.com/florian-sanders/cod-access).
 
+#### Things I've learned lately
+* TypeScript (practice),
+* VueJS (learn and practice),
+* Laravel.
+
 #### Things I'm Learning
 I'm always searching for new things to learn. Here is a short list of what is on my radar at the moment:
 * Test Driven Development (practice),
-* TypeScript (practice),
-* VueJS (learn and practice),
-* NextJS (learn and practice)
+* NuxtJS (learn and practice)
 * ...
