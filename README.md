@@ -13,7 +13,7 @@ I recently spent 6 months learning about **NodeJS and ReactJS** with [O'Clock.io
 
 #### Things I'm Learning
 I'm always searching for new things to learn. Here is a short list of what is on my radar at the moment:
-* Web Components and lit framework,
+* Web Components and Lit framework,
 * Storybook,
 * Test Driven Development (practice),
 * Symfony & API Platform,
