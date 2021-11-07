@@ -22,3 +22,7 @@ I'm always searching for new things to learn. Here is a short list of what is on
 * Rust,
 * GoLang,
 * Flutter
+
+💙 💚 ❤️
+
+Other than that I love TV shows 📺, music 🎧, video-games 🎮, animals 😻 and kind people ❤️
