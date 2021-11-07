@@ -17,4 +17,8 @@ I'm always searching for new things to learn. Here is a short list of what is on
 * Storybook,
 * Test Driven Development (practice),
 * Symfony & API Platform,
-* ...
+
+#### Things I want to learn later
+* Rust,
+* GoLang,
+* Flutter
