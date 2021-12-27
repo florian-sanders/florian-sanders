@@ -9,6 +9,7 @@ I recently spent 6 months learning about **NodeJS and ReactJS** with [O'Clock.io
 * TypeScript,
 * VueJS,
 * NuxtJS,
+* SvelteJS & SvelteKit,
 * Laravel.
 
 #### Things I'm Learning
@@ -16,11 +17,12 @@ I'm always searching for new things to learn. Here is a short list of what is on
 * Web Components and Lit library,
 * Storybook,
 * Test Driven Development (practice),
-* Symfony & API Platform,
+* Symfony & API Platform.
 
 #### Things I want to learn later
 * Rust,
 * GoLang,
+* RemixRun,
 * Flutter.
 
 💙 💚 ❤️
