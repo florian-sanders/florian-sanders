@@ -1,29 +1,11 @@
 ### Hi there 👋
 
 I'm a French Web Developer with a **very curious mind**. I love learning and trying new things but I also love digging through subjects like **accessibility**.
-I've worked at Access42 as an **Accessibility trainer and consultant for 4 years** and I am now focusing on **front-end development**.
+I've worked at Access42 as an **Accessibility trainer and consultant** and I am now focusing on **front-end development**.
 
-I recently spent 6 months learning about **NodeJS and ReactJS** with [O'Clock.io](https://oclock.io/), at the end of which I worked on the [Cod'Access Project](https://github.com/florian-sanders/cod-access). I am currently working at [Tediber](https://tediber.com/) as a front-end developer with **VueJS and NuxtJS**.
+I am currently working at [Clever Cloud](https://github.com/CleverCloud/), mostly on the [clever-components Project](https://github.com/CleverCloud/clever-components) as a front-end developer with **Web Components using Lit**.
 
-#### Things I've learned lately
-* TypeScript,
-* VueJS,
-* NuxtJS,
-* SvelteJS & SvelteKit,
-* Laravel.
-
-#### Things I'm Learning
-I'm always searching for new things to learn. Here is a short list of what is on my radar at the moment:
-* Web Components and Lit library,
-* Storybook,
-* Test Driven Development (practice),
-* Symfony & API Platform.
-
-#### Things I want to learn later
-* Rust,
-* GoLang,
-* RemixRun,
-* Flutter.
+I like to spend time tweaking my [Nixos Config](https://github.com/florian-sanders-cc/dotfiles), testing Desktop Environments, code editors, etc.
 
 💙 💚 ❤️
 
